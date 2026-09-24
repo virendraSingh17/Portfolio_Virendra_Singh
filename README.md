@@ -8,7 +8,7 @@ A modern, responsive and interactive personal portfolio website built with HTML,
 
 <br>
 
-[![Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Website-36BCF7?style=for-the-badge)](YOUR_PORTFOLIO_URL)
+[![Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Website-36BCF7?style=for-the-badge)](https://virendra-singh-portfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-virendraSingh17-181717?style=for-the-badge&logo=github)](https://github.com/virendraSingh17)
 
 </div>
